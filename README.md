@@ -32,7 +32,6 @@ Single-issue out-of-order processor implemented in Verilog and deployed on a **Z
 Hardware accelerator developed using **Vitis HLS** and deployed on a **ZedBoard**.
 
 * Highly parallel processing architecture
-* Four independent AXI HP memory interfaces
 * Loop unrolling and pipelining with **II = 1**
 * Optimized memory bandwidth and data movement
 * Evaluated against CPU SIMD and OpenMP implementations
