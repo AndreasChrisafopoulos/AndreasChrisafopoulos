@@ -83,4 +83,4 @@ University of Thessaly
 
 ## Contact
 
-[LinkedIn] (https://www.linkedin.com/in/andreas-chrisafopoulos/) · [GitHub](https://github.com/AndreasChrisafopoulos) · [achrisafopoulos@gmail.com](mailto:achrisafopoulos@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/andreas-chrisafopoulos/) · [GitHub](https://github.com/AndreasChrisafopoulos) · [achrisafopoulos@gmail.com](mailto:achrisafopoulos@gmail.com)
