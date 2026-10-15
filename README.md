@@ -47,15 +47,6 @@ Current work includes OpenCL kernel development for:
 * SwiGLU feed-forward network
 * Output projection and residual connection
 
-### ML-Based Effective Capacitance Modeling — Ongoing
-
-Research project exploring **machine-learning and graph-neural-network models for effective capacitance prediction** in VLSI interconnects.
-
-* Circuit graph representations
-* GNN and MLP architectures
-* SPICE-based dataset generation
-* RC network feature engineering
-* Timing and interconnect modeling
 
 ### HDMI Pong on FPGA
 
